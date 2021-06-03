@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sad, and bloody fight at VVestminster between the souldiers of the Parliaments guard and the club-men of Surrey. With a copy of their petition to the Parliament. And the proceedings of both Houses upon the same, Die Mercurius, May 16. 1648. This is appointed to be printed and published to prevent mis-representations herein. Imprimatur, Gilb. Mabbot.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92808</idno><idno type="EEBO-CITATION">99864192</idno>
+  <idno type="VID">161709</idno>
+  <idno type="EEBO-PROQUEST">2240902229</idno>
+  
+            <idno type="STC">Wing S227</idno>
+            <idno type="STC">Thomason E443_17</idno>
+            <idno type="STC">ESTC R204728</idno>
+            <idno type="PROQUEST">99864192</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864192e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92808)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161709)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E443[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sad, and bloody fight at VVestminster between the souldiers of the Parliaments guard and the club-men of Surrey. With a copy of their petition to the Parliament. And the proceedings of both Houses upon the same, Die Mercurius, May 16. 1648. This is appointed to be printed and published to prevent mis-representations herein. Imprimatur, Gilb. Mabbot.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Becke, and are to be sold in the Old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Riots --  England --  Westminster --  Early works to 1800.</term>
+               <term type="geographic_name">Surrey (England) --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161709:1"/>
+            <p>The SAD, and BLOODY FIGHT AT WESTMINSTER Between The Souldiers of the Parliaments guard and the Club-men of <hi>SVRREY.</hi>
+            </p>
+            <p>WITH A Copy of their <hi>PETITION</hi> to the <hi>PARLIAMENT.</hi>
+            </p>
+            <p>
+               <hi>And the proceedings of Both Houses upon the same,</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Mercurius,</hi> May 16. 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>THis is appointed to be Printed and published to prevent mis-representations herein.</hi>
+                        </p>
+                        <closer>
+                           <signed>Imprimatur, Gilb. Mabbot.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON, Printed for <hi>H. Becke,</hi> and are to be sold in the <hi>Old Bayley.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161709:2"/>
+            <pb n="1" facs="tcp:161709:2"/>
+            <head>
+               <hi>THE</hi> SAD, and BLOODY FIGHT AT <hi>WESTMINSTER,</hi> Between The Souldiers of the Parriaments Guard, and the Club-men of <hi>Surrey.</hi>
+            </head>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Die Martis,</hi> 16 <hi>May</hi> 1648.</date>
+                  </dateline>
+               </opener>
+               <p>THe House of Lords being informed, that divers Gentlemen of the County of <hi>Surrey</hi> were at the doore, desiring to preferre a Petition to their Lord<g ref="char:EOLhyphen"/>ships, they were called in. And the Petition was read.</p>
+               <p>The Petitioners were againe called in, And the Earle of <hi>Manchester</hi> Speaker of the Lords House, by command from their Lordships, gave them answer,
+<pb n="2" facs="tcp:161709:3"/>That their Lordships would indeavor all meanes pos<g ref="char:EOLhyphen"/>sible to take off all burdens from the Kingdome.</p>
+               <p>And as to that part of their Petition concerning the Government of the Kingdome, it is now under debate, and they doubt not but to give satisfaction to the Kingdome therein.</p>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Die Martis</hi> 16 <hi>May.</hi> 1648.</date>
+                  </dateline>
+               </opener>
+               <p>THe House of Commons being acquainted that there were some Gentlemen at the doore, with a Petition from divers of the County of <hi>Surrey,</hi> and Bur<g ref="char:EOLhyphen"/>rough of <hi>Southwarke,</hi> to be presented to this House, and that divers more were in the Hall, and about the Pallace to attend the said Petition, the House ordered to fit this afternoone purposely to receive, and debate the said Petition, And so adjourned for an hour.</p>
+               <p>The House being againe sat, The Petitioners were called in, And Sir <hi>Ed. Bowyer</hi> presented the Petiti<g ref="char:EOLhyphen"/>on, with divers other Gentlemen, And the said Pe<g ref="char:EOLhyphen"/>tition was read and debated in the House.</p>
+               <p>The Gentlemen that presented the Petition attend<g ref="char:EOLhyphen"/>ing at the doore of the House of Commons for the answer of the House to be determined, hearing of a great noyse about the staires, and in the Court of Re<g ref="char:EOLhyphen"/>quests, and the Hall, and other places, they went divers of them to perswade the Country men (that were foot men, that came along with staves and clubs) that they would withdraw, and be civill, and waite untill the House of Commons had given their answer, which they now had under debate, And with much adoe
+<pb n="3" facs="tcp:161709:3"/>they prevailed with them to draw backe from the Centinels who stood for the guard of the House.</p>
+               <p>The said Gentlemen returning backe to the House of Commons door, sent word in to the House by the Serjeant at armes, that they had caused them to with<g ref="char:EOLhyphen"/>draw, and that all was cleare. The footemen were merry with a paire of Bag-pipes.</p>
+               <p>But the Club-men pressing againe upon the Court of Guard, and throwing up their hats, and crying, <hi>for KING CHARLES, for KING CHARLES,</hi> And pressing for an Answer. Some more Horse and Foote came from the Regiaments from <hi>White-Hall,</hi> and the <hi>Mewes.</hi>
+               </p>
+               <p>Being opposed by some foote in the Pallace yard, and it being said that one of the Guard was knocked down, The Souldiers fell on them, and wounded many, some were driven towards the water, others severall ways.</p>
+               <p>At <hi>Westminster-Hall</hi> Gate the Souldiers had some stoppe, which the Country-men made good a while, but the Souldiers broake their way through, and wounded divers, two were killed outright in the Hall: Having cleared the Hall, they pursued on clearing the Court of Requests, and the old Pallace yard, many were wounded, and some five or six dead out-right, Whereof one was the Miller of <hi>Wanser,</hi> and a water man on the bank-side another: Others sore hurt, to the number of neer a hundred, Some can hardly escape it. One of the Souldiers is supposed slaine.</p>
+               <p>The House of Commons were still in debate a<g ref="char:EOLhyphen"/>bout the aforesaid Petition, but being acquainted
+<pb n="4" facs="tcp:161709:4"/>with this mutiny, sent for the Officer of the Court of Guard, who gave account of the fray, And the House ordered to adjourn.</p>
+            </div>
+            <div type="petition">
+               <head>To the <hi>Right Honourable both Houses of Parliament of</hi> England, <hi>assembled at</hi> WESTMINSTER.</head>
+               <head type="sub">The Humble Petition of the Knights, Gentlemen, Free-holders, and Inha<g ref="char:EOLhyphen"/>bitants of the County of <hi>Surrey;</hi> To<g ref="char:EOLhyphen"/>gether with the Gentlemen, Citizens, Free-holders, and free-born Subjects of the Burrough of <hi>Southwark.</hi>
+               </head>
+               <opener>Sheweth that</opener>
+               <p>YOur Petitioners having earnestly be<g ref="char:EOLhyphen"/>sought God, and expected many yeers from your wisdomes and counsell, a full and comfortable redresse of the grievous miseries of this Kingdome (which blessings have hi<g ref="char:EOLhyphen"/>therto failed us through divers miscarriages, and the manifold sinnes of us all). Wee, a<g ref="char:EOLhyphen"/>mongst
+<pb n="5" facs="tcp:161709:4"/>other free-borne Subjects of this Realme, humbly crave leave to expresse our pious affections to the publique good, and earnest desires for the preventing the conti<g ref="char:EOLhyphen"/>nuance and increase of future evills, as fol<g ref="char:EOLhyphen"/>loweth:</p>
+               <p>
+                  <hi>That the Kings Majesty, our onely lawfull So<g ref="char:EOLhyphen"/>veraigne, may be restored to his due Honour, and just Rights, according to our Oaths of</hi> Suprema<g ref="char:EOLhyphen"/>cy <hi>and</hi> Allegiance, <hi>which hath been taken by us in the sight of God, and from which no Power on earth can absolve us. And therefore our soules do yerne, and our consciences doe grieve for it.</hi>
+               </p>
+               <p>
+                  <hi>That his Majesty may forthwith be established in his Throne, according to the Splendor of his Royall Ancestors. And that his Majesty may for the present with Honour and safety come unto the Parliament at</hi> Westminster, <hi>to enter with them into a Personall Treaty for composing all former differences, and the granting all lawfull desires.</hi>
+               </p>
+               <p>
+                  <hi>That we, and all the free borne Subjects of this Realm may be governed no otherwise then by the knowne Lawes and Statutes now in force in this Kingdome.</hi>
+               </p>
+               <p>
+                  <hi>That your speedy and grave wisdomes may pre<g ref="char:EOLhyphen"/>vent
+<pb n="6" facs="tcp:161709:5"/>the miserable and unnaturall Warres begin<g ref="char:EOLhyphen"/>ing againe in this distracted and exhausted King<g ref="char:EOLhyphen"/>dom, and to prevent by faire Treaty the forces to be brought in by our neighbour Kingdome, And from other nations not unlike to invade us: Which we conceive (through the mercy of God) may bee soon effected by timely providing for the premises.</hi>
+               </p>
+               <p>
+                  <hi>That not only the Ordinances made of late by the goodnesse and wisdome of the two Houses of Parli<g ref="char:EOLhyphen"/>ament against the unsupportable and most wastfull burden uf free-quartering of Souldiers may be duly executed, But that forthwith order may be taken (as becommeth Patriots that love their Country) for the disbanding of all Armies (having their due arrears payed, that we may injoy (without feares and jealousies) a blessed and long looked for peace.</hi>
+               </p>
+               <closer>And your Petitioners shall pray, &amp;c,</closer>
+            </div>
+            <closer>
+               <signed>Imprimatur G. M.</signed>
+               <dateline>
+                  <date>17 <hi>May</hi> 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
